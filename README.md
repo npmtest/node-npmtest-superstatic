@@ -1,4 +1,7 @@
-# test coverage for  [superstatic (v4.0.3)](https://github.com/firebase/superstatic#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-superstatic.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-superstatic) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-superstatic.svg)](https://travis-ci.org/npmtest/node-npmtest-superstatic)
+# npmtest-superstatic
+
+#### basic test coverage for  [superstatic (v4.0.3)](https://github.com/firebase/superstatic#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-superstatic.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-superstatic) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-superstatic.svg)](https://travis-ci.org/npmtest/node-npmtest-superstatic)
+
 #### A static file server for fancy apps
 
 [![NPM](https://nodei.co/npm/superstatic.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/superstatic)
